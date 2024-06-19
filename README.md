@@ -71,3 +71,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+# [Velog](https://velog.io/@gks990401/NestJS%EC%99%80-Firebase-RTDB%EB%A5%BC-%EC%97%B0%EB%8F%99%ED%95%B4%EB%B3%B4%EC%9E%90)
